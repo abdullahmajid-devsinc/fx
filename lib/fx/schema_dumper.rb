@@ -13,6 +13,8 @@ module Fx
         functions(stream)
         empty_line(stream)
       end
+
+      triggers(stream)
     end
 
     private
